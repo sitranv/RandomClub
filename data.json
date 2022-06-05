@@ -1,0 +1,17 @@
+[
+  {
+    "name" : "Manchester United",
+    "image": "",
+    "stars": 4.5
+  },
+  {
+    "name" : "Manchester City",
+    "image": "",
+    "stars": 4.5
+  },
+  {
+    "name" : "Loserpool",
+    "image": "",
+    "stars": 4.5
+  }
+]
